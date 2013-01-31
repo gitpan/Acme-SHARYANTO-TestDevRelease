@@ -33,13 +33,13 @@
          }
       }
    },
-   "release_status" : "stable",
+   "release_status" : "testing",
    "resources" : {
       "homepage" : "http://metacpan.org/release/Acme-SHARYANTO-TestDevRelease",
       "repository" : {
          "url" : "http://github.com/sharyanto/perl-Acme-SHARYANTO-TestDevRelease"
       }
    },
-   "version" : "0.01"
+   "version" : "0.01_01"
 }
 
