@@ -1,6 +1,6 @@
 package Acme::SHARYANTO::TestDevRelease;
 
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.01_02'; # VERSION
 
 1;
 # ABSTRACT: Test dev release
@@ -14,7 +14,7 @@ Acme::SHARYANTO::TestDevRelease - Test dev release
 
 =head1 VERSION
 
-version 0.02
+version 0.01_02
 
 =head1 AUTHOR
 
